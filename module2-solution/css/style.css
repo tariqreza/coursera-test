@@ -6,9 +6,9 @@
 }
 
 h1 {
-  margin: 50px;
+  margin-bottom: 15px;
   text-align: center;
-  /* font-size: 175%; */
+  font-size: 175%;
 }
 
 section {
@@ -26,7 +26,6 @@ div {
   position: relative;
   background-color: lightgray;
   border: 1px solid black;
-  border-width: medium;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -39,11 +38,10 @@ div {
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
-  border-width: 0px 0px medium medium;
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: rgb(214, 124, 124);
+  background-color: pink;
 }
 
 .sec2 {
@@ -53,11 +51,10 @@ div {
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
-  border-width: 0px 0px medium medium;
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: maroon;
+  background-color: brown;
 }
 
 .sec3 {
@@ -67,18 +64,16 @@ div {
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
-  border-width: 0px 0px medium medium;
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: rgb(223, 212, 121);
+  background-color: khaki;
 }
 
 .content {
   padding: 5px;
   border: none;
   background-color: lightgray;
-  font-family: Helvetica;
   color: black;
   margin: 0px;
   height: 150px;
